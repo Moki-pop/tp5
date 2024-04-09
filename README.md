@@ -7,7 +7,7 @@
 
 **IUT Le Havre - Cours GIT**
 
-### Compte-rendu TP2 Travailler en autonomie sur un depôt github distant
+### Compte-rendu TP3 Travailler en autonomie sur un depôt github distant
 
 Dans ce TP on apprend à configurer git et à cloner des repositories
 
